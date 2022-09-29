@@ -4,6 +4,7 @@ using Shapes;
 using Unity.VisualScripting;
 using UnityEngine;
 
+[UnitTitle("Draw Disc")]
 [UnitCategory("Shapes")]
 public class DrawDiscNode : Unit
 {

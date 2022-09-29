@@ -1,0 +1,17 @@
+{
+    "name": "hdyar.visualshapes.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:13a6fdc14ca9df84eb8019bc66fa9e5d",
+        "GUID:234839f5b92104d4fb68841aefec625b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

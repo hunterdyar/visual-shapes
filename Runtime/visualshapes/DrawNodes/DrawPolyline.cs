@@ -4,6 +4,7 @@ using Shapes;
 using Unity.VisualScripting;
 using UnityEngine;
 
+[UnitTitle("Draw Polyline")]
 [UnitCategory("Shapes")]
 public class DrawPolyline : Unit
 {
