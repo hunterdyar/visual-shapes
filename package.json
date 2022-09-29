@@ -1,0 +1,25 @@
+{
+  "name": "com.hdyar.visualshapesnodes",
+  "version": "0.0.1",
+  "displayName": "Visual Shapes Nodes",
+  "description": "Nodes for Visual Scripting for use with the Shapes vector drawing package.",
+  "unity": "2021.3",
+  "unityRelease": "8f1",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+    "com.unity.visualscripting": "1.7.0"
+  },
+  "keywords": [
+    "Visual Scripting",
+    "Shapes",
+    "Vector",
+    "Visual"
+  ],
+  "author": {
+    "name": "Hunter Dyar",
+    "email": "me@hdyar.com",
+    "url": "https://guidebook.hdyar.com"
+  }
+}
